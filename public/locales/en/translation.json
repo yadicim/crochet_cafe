@@ -1,0 +1,224 @@
+{
+  "hero": {
+    "title_1": "Handmade with Love",
+    "title_1_1": "Crochet Artist",
+    "title_2": "Stitched",
+    "title_2_2": "with Passion",
+    "title_3": "In Every Loop",
+    "title_4": "Crafted with Care",
+    "description": "Hi, I'm Yadigar. I believe every stitch has a story to tell. From cozy blankets to unique accessories, I transform yarn into timeless treasures that bring color and warmth to your life.",
+    "contact_me": "Contact Me",
+    "download_cv": "View Catalog",
+    "follow_me": "Follow my process:",
+    "available": "Available for custom orders",
+    "law": "Slow Living &",
+    "software": "Handmade Design"
+  },
+  "navbar": {
+    "about": "My Story",
+    "projects": "My Works / Order",
+    "experience": "My Path",
+    "search": "Search items...",
+    "ColorStudio": "Color Lab",
+    "contact_me": "Contact"
+  },
+  "footer": {
+    "about": "My Story",
+    "projects": "My Works / Order",
+    "experience": "My Path",
+    "contact": "Contact",
+    "rights": "Crochet Cafe Finland. All rights reserved."
+  },
+  "color_studio": {
+    "badge": "Interactive Workshop",
+    "title": "Color Lab",
+    "description": "Experiment with yarn combinations on a classic Granny Square motif.",
+    "label_main": "Main Body Yarn",
+    "label_accent": "Accent Detail Yarn",
+    "base_color": "Base Color",
+    "contrast_color": "Contrast Color",
+    "reset": "Reset Palette",
+    "status": "Harmony Achieved",
+    "recommendation_title": "Expert Recommendation",
+    "select_category": "What are you making?",
+    "find_yarn": "Find the Perfect Match",
+    "match_found": "Closest Match Found",
+    "view_yarn": "View Product",
+    "categories": {
+      "socks": "Wool Socks",
+      "baby": "Baby Items",
+      "toys": "Amigurumi / Toys",
+      "fashion": "Sweaters / Fashion"
+    }
+  },
+  "yarn_guide": {
+    "badge": "Yarn Expert",
+    "title": "Finland Yarn Guide",
+    "subtitle": "Confused about which yarn to use in Finland? Here is my personal guide based on local brands.",
+    "buy_now": "View Product",
+    "local_tip_title": "Pro Local Tip",
+    "local_tip_desc": "In Finnish markets like Prisma or Citymarket, look for the 'Avainlippu' (Key Flag) symbol. It guarantees Finnish design and quality!",
+    "items": {
+      "socks": {
+        "title": "Wool Socks (Villasukat)",
+        "yarn": "Novita 7 Veljestä",
+        "desc": "The legendary '7 Brothers' yarn. Durable, warm, and the standard for every Finnish home.",
+        "tag": "Durable",
+        "url": "https://novita.com/collections/7-veljesta"
+      },
+      "baby": {
+        "title": "Baby Garments",
+        "yarn": "Drops Baby Merino",
+        "desc": "The softest touch for baby's skin. 100% merino wool that is completely itch-free.",
+        "tag": "Softest",
+        "url": "https://www.karkkainen.com/verkkokauppa/drops-baby-merino-50-g-lanka-merinovillalanka"
+      },
+      "toys": {
+        "title": "Amigurumi & Toys",
+        "yarn": "Schachenmayr Catania",
+        "desc": "High-quality treated cotton. It doesn't fuzz, making it safe and perfect for toys.",
+        "tag": "Cotton",
+        "url": "https://www.karkkainen.com/verkkokauppa/schachenmayr-catania-50-g-lanka"
+      },
+      "fashion": {
+        "title": "Cardigans & Wraps",
+        "yarn": "Novita Nalle",
+        "desc": "Slightly thinner than 7 Veljestä. Perfect for elegant shawls and lighter indoor garments.",
+        "tag": "Elegant",
+        "url": "https://novita.com/collections/nalle"
+      }
+    }
+  },
+  "about": {
+    "badge": "The Story of Craft",
+    "title_main": "Every Stitch a",
+    "title_highlight": "Memory",
+    "p1": "My crochet journey began as a hobby and blossomed into a deep passion for creating. I find peace in the rhythm of the hook and the softness of the yarn. I believe handmade items possess a soul that mass-produced goods can never replicate.",
+    "p2": "I specialize in various techniques, from classic amigurumi to modern wearable art. My process is slow and intentional, focusing on high-quality natural fibers and unique color palettes that reflect the beauty of nature.",
+    "p3": "For me, crocheting isn't just about the end result; it's about patience, tradition, and the simple joy of creating something beautiful from a single thread.",
+    "quote": "Crafting by hand allows me to share a piece of my heart with the world, one stitch at a time.",
+    "highlights": {
+      "title_1": "Ethical & Slow",
+      "desc_1": "Thoughtful production that respects the craft and the environment.",
+      "title_2": "Premium Materials",
+      "desc_2": "Using only the finest cotton, wool, and eco-friendly yarns for lasting comfort.",
+      "title_3": "Unique Designs",
+      "desc_3": "No two items are exactly alike. Each piece is a one-of-a-kind creation.",
+      "title_4": "Meaningful Gifts",
+      "desc_4": "Expertly crafted pieces intended to be cherished for generations."
+    }
+  },
+  "contact": {
+    "success_msg": "Message received! I'll get back to you as soon as I put down my hook.",
+    "error_msg": "Oops! The yarns got tangled. Please try again or email me directly.",
+    "header_1": "Stay in Touch",
+    "header_2": "Let's Stitch Your",
+    "header_3": "Dream Together",
+    "header_p": "Have a custom design in mind? Or just want to say hi? I'd love to hear from you and create something special just for you.",
+    "name": "Your Full Name",
+    "y_name": "How should I address you?",
+    "email": "Your Email Address",
+    "message": "What's on your mind?",
+    "sending": "Sending your message...",
+    "send": "Send Message",
+    "info_title": "Workshop Info",
+    "card_title": "Custom Orders",
+    "card_p": "My hook is quite busy at the moment, but I always have time for new ideas! Let's talk about your favorite colors and patterns.",
+    "info": {
+      "label_1": "Email",
+      "label_2": "WhatsApp",
+      "label_3": "Location"
+    }
+  },
+  "exp": {
+    "header_1": "My Creative Journey",
+    "header_2": "The Story Behind",
+    "header_3": "Every Loop",
+    "header_p": "A lifelong passion spanning from childhood dolls to a multicultural vision of craft.",
+    "period_1": "2024 – Present",
+    "role_1": "Founder & Artist",
+    "company_1": "Yadigar's Crochet Cafe",
+    "desc_1": "Creating unique crochet and textile works in my home studio. Blending Turkish and Finnish craft cultures, laying the foundation for the 'Crochet Cafe' I dream of opening in Finland.",
+    "period_2": "2020 – 2023",
+    "role_2": "Cultural Fusion & Design",
+    "company_2": "Artistic Exploration",
+    "desc_2": "Focused on combining traditional Turkish lace and crochet motifs with modern Scandinavian aesthetics. This period was dedicated to refining my signature style.",
+    "period_3": "2010 – 2019",
+    "role_3": "Skill Development",
+    "company_3": "Independent Practice",
+    "desc_3": "Mastered advanced crochet techniques and sewing. Transitioned from baby clothes to complex wearable art and home decor.",
+    "period_4": "Childhood Years",
+    "role_4": "The First Stitch",
+    "company_4": "My Grandmother's Workshop",
+    "desc_4": "My passion for handcrafts began at age five, learning the basics of knitting and sewing while watching my grandmother. I spent my childhood designing wardrobes for my dolls.",
+    "period_future": "2026 and Beyond",
+    "role_future": "Future Vision: The Crochet Cafe",
+    "company_future": "Oulu, Finlandiya",
+    "desc_future": "My dream is to open a physical 'Crochet Cafe' where the aroma of coffee meets the softness of yarn. A cozy space where people can learn, share stories, and experience a true sense of community."
+  },
+  "gallery": {
+  "title_1": "Handmade",
+  "title_2": "Portfolio",
+  "description": "Welcome to my full collection. Each piece is handcrafted with love, attention to detail, and high-quality materials.",
+  "back_home": "Back to Home",
+  "all_categories": "All Projects",
+  "items_count": "works displayed",
+  "cta_title": "Interested in a Custom Piece?",
+  "cta_desc": "Most of these items can be recreated in your favorite colors. Send me a message on Instagram for orders."
+},
+  "projects": {
+    "statuses": {
+      "available": "Available",
+      "sold_out": "Sold Out",
+      "custom_order": "Made to Order"
+    },
+    "view_all_works": "Explore Full Gallery / Order",
+    "price": "Price",
+    "order_now": "Order Now",
+    "wa_message": "Hello! I am interested in the {{item}} from your gallery. Is it still available?",
+    "badge": "Collection",
+    "title_1": "Handmade",
+    "title_2": "Treasures",
+    "description_main": "Explore my latest works, from soft plushies to stylish accessories and home decor.",
+    "items": {
+      "chick": {
+        "title": "Spring Chick Blossom",
+        "category": "Handmade Toys",
+        "desc": "A charming handmade amigurumi chick resting under a blooming flower, bringing warmth and joy to any space.",
+        "tags": [
+          "Amigurumi",
+          "Spring",
+          "Handmade",
+          "Cute",
+          "Decor"
+        ]
+      },
+      "koala": {
+        "title": "Sleepy Koala Comfort Toy",
+        "category": "Handmade Toys",
+        "desc": "A soft handmade amigurumi koala resting on a cozy blanket, perfect for comforting little ones and adding a gentle touch to any nursery.",
+        "tags": [
+          "Amigurumi",
+          "Handmade",
+          "Koala",
+          "Baby",
+          "Comfort Toy"
+        ]
+      },
+      "sakura": {
+        "title": "Sakura Blossom Bouquet",
+        "category": "Handmade Decor",
+        "desc": "A delicate handmade amigurumi sakura bouquet arranged in a glass vase, adding a touch of elegance and everlasting spring to any space.",
+        "tags": [
+        "Amigurumi",
+        "Handmade",
+        "Sakura",
+        "Flower",
+        "Home Decor"
+          ]
+      }
+    },
+    "cta_text": "Want to see more or place an order?",
+    "cta_button": "Follow Me on Instagram"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "hero": {
+    "title_1": "Sevgiyle El Yapımı",
+    "title_1_1": "Örgü Sanatçısı",
+    "title_2": "İlmek İlmek",
+    "title_2_2": "Tutkuyla",
+    "title_3": "İşlendi",
+    "title_4": "Özenle Hazırlandı",
+    "description": "Merhaba, ben Yadigar. Her ilmeğin bir hikayesi olduğuna inanıyorum. Yumuşacık battaniyelerden özgün aksesuarlara kadar, iplikleri hayatınıza renk ve sıcaklık katacak zamansız hazinelere dönüştürüyorum.",
+    "contact_me": "İletişime Geç",
+    "download_cv": "Kataloğu İncele",
+    "follow_me": "Sürecimi takip edin:",
+    "available": "Özel sipariş için müsait",
+    "law": "Yavaş Yaşam Tarzı ve",
+    "software": "El Yapımı Tasarım"
+  },
+
+  "navbar": {
+    "about": "Hikayem",
+    "projects": "Çalışmalarım / Siparis ver",
+    "experience": "Yolum",
+    "search": "Ürün ara...",
+    "ColorStudio": "Renk Atölyesi",
+    "contact_me": "İletişim"
+  },
+
+  "footer": {
+    "about": "Hikayem",
+    "projects": "Çalışmalarım / Siparis ver",
+    "experience": "Yolum",
+    "contact": "İletişim",
+    "rights": "Crochet Cafe Finland. Tüm hakları saklıdır."
+  },
+
+  "about": {
+    "badge": "Emeğin Hikayesi",
+    "title_main": "Her İlmek Bir",
+    "title_highlight": "Anı",
+    "p1": "Örgü yolculuğum bir hobi olarak başladı ve zamanla üretmeye duyulan derin bir tutkuya dönüştü. Tığın ritminde ve ipliğin yumuşaklığında huzur buluyorum. El yapımı eşyaların, fabrikasyon ürünlerin asla sahip olamayacağı bir ruha sahip olduğuna inanıyorum.",
+    "p2": "Klasik amigurumilerden modern giyilebilir sanata kadar farklı tekniklerde uzmanlaştım. Sürecim yavaş ve anlamlı; doğanın güzelliğini yansıtan yüksek kaliteli doğal liflere ve benzersiz renk paletlerine odaklanıyorum.",
+    "p3": "Benim için örgü sadece bir sonuç değil; sabrın, geleneğin ve tek bir iplikten güzel bir şey yaratmanın verdiği mutluluğun birleşimidir.",
+    "quote": "Elle üretmek, kalbimden bir parçayı ilmek ilmek dünyayla paylaşmamı sağlıyor.",
+    "highlights": {
+      "title_1": "Etik ve Yavaş",
+      "desc_1": "Zanaata ve çevreye saygı duyan düşünceli üretim.",
+      "title_2": "Premium Malzemeler",
+      "desc_2": "Uzun ömürlü konfor için sadece en iyi pamuk, yün ve ekolojik iplikleri kullanıyorum.",
+      "title_3": "Benzersiz Tasarımlar",
+      "desc_3": "İki ürün asla birbirinin aynısı değildir. Her parça eşsiz bir tasarımdır.",
+      "title_4": "Anlamlı Hediyeler",
+      "desc_4": "Nesiller boyu saklanması için ustalıkla hazırlanmış özel parçalar."
+    }
+  },
+
+  "contact": {
+    "success_msg": "Mesajınız ulaştı! Tığımı elimden bıraktığım an size dönüş yapacağım.",
+    "error_msg": "Hay aksi! İpler birbirine karıştı. Lütfen tekrar deneyin veya doğrudan e-posta gönderin.",
+    "header_1": "Bağlantıda Kalalım",
+    "header_2": "Hayalinizdekini",
+    "header_3": "Birlikte Örelim",
+    "header_p": "Aklınızda özel bir tasarım mı var? Ya da sadece merhaba mı demek istediniz? Sizi dinlemek ve size özel bir şeyler üretmek için sabırsızlanıyorum.",
+    "name": "Adınız Soyadınız",
+    "y_name": "Size nasıl hitap edebilirim?",
+    "email": "E-posta Adresiniz",
+    "message": "Aklınızda ne var?",
+    "sending": "Mesajınız iletiliyor...",
+    "send": "Mesaj Gönder",
+    "info_title": "Atölye Bilgileri",
+    "card_title": "Özel Siparişler",
+    "card_p": "Şu an tığım oldukça meşgul ama yeni fikirler için her zaman vaktim var! En sevdiğiniz renkleri ve modelleri konuşalım.",
+    "info": {
+      "label_1": "E-posta",
+      "label_2": "WhatsApp",
+      "label_3": "Konum"
+    }
+  },
+
+  "exp": {
+    "header_1": "Yaratıcı Yolculuğum",
+    "header_2": "Her İlmeğin",
+    "header_3": "Ardındaki Hikaye",
+    "header_p": "Çocukluk bebeklerinden çok kültürlü bir zanaat vizyonuna uzanan hayat boyu süren bir tutku.",
+    "period_1": "2024 – Günümüz",
+    "role_1": "Kurucu ve Sanatçı",
+    "company_1": "Yadigar's Crochet Cafe",
+    "desc_1": "Ev atölyemde eşsiz örgü ve tekstil işleri üretiyorum. Türk ve Finlandiya el sanatları kültürlerini harmanlayarak Finlandiya'da açmayı hayal ettiğim 'Crochet Cafe'nin temellerini atıyorum.",
+    "period_2": "2020 – 2023",
+    "role_2": "Kültürel Füzyon ve Tasarım",
+    "company_2": "Sanatsal Keşif",
+    "desc_2": "Geleneksel Türk dantel ve örgü motiflerini modern İskandinav estetiğiyle birleştirmeye odaklandım. Bu dönem stilimi rafine etmeye adandı.",
+    "period_3": "2010 – 2019",
+    "role_3": "Yetenek Geliştirme",
+    "company_3": "Bağımsız Uygulama",
+    "desc_3": "Zorlu örgü teknikleri ve dikiş konusunda uzmanlaştım. Bebek kıyafetlerinden karmaşık giyilebilir sanat eserlerine ve ev dekorasyonuna geçiş yaptım.",
+    "period_4": "Çocukluk Yılları",
+    "role_4": "İlk İlmek",
+    "company_4": "Babanemin Atölyesi",
+    "desc_4": "El sanatlarına olan tutkum beş yaşımda anneannemi izleyerek örgü ve dikişin temellerini öğrenmemle başladı. Çocukluğumu oyuncak bebeklerime gardıroplar tasarlayarak geçirdim.",
+    "period_future": "2026 ve Sonrası",
+    "role_future": "Gelecek Vizyonu: The Crochet Cafe",
+    "company_future": "Oulu, Finlandiya",
+    "desc_future": "Hayalim, kahve kokusunun ipliklerin yumuşaklığıyla buluştuğu fiziksel bir 'Crochet Cafe' açmak. İnsanların öğrenebileceği, hikayeler paylaşabileceği ve gerçek bir topluluk hissini yaşayabileceği samimi bir mekan."
+  },
+  "color_studio": {
+    "badge": "İnteraktif Atölye",
+    "title": "Renk Laboratuvarı",
+    "description": "Klasik bir Hanım Dilendi Bey Beğendi motifi üzerinde ip kombinasyonlarını deneyin.",
+    "label_main": "Ana Gövde Rengi",
+    "label_accent": "Detay/Aksan Rengi",
+    "reset": "Paleti Sıfırla",
+    "select_category": "Ne örüyorsunuz?",
+    "find_yarn": "Mükemmel İpi Bul",
+    "match_found": "En Yakın İp Eşleşmesi",
+    "categories": {
+      "socks": "Yün Çorap",
+      "baby": "Bebek Ürünleri",
+      "toys": "Amigurumi / Oyuncak",
+      "fashion": "Hırka / Moda"
+    }
+  },
+  "yarn_guide": {
+    "badge": "İp Uzmanı",
+    "title": "Finlandiya İp Rehberi",
+    "subtitle": "Finlandiya'da hangi ipi kullanacağınız konusunda kararsız mısınız? İşte yerel markalara dayalı kişisel rehberim.",
+    "buy_now": "Ürünü İncele",
+    "local_tip_title": "Yerel Uzman İpucu",
+    "local_tip_desc": "Prisma veya Citymarket gibi marketlerde 'Avainlippu' (Anahtar Bayrak) sembolüne dikkat edin. Bu, Finlandiya tasarımı ve kalitesinin garantisidir!",
+    "items": {
+      "socks": {
+        "title": "Yün Çorap (Villasukat)",
+        "yarn": "Novita 7 Veljestä",
+        "desc": "Efsanevi '7 Kardeş' ipi. Dayanıklı, sıcak ve her Fin evinin standart tercihi.",
+        "tag": "Dayanıklı"
+      },
+      "baby": {
+        "title": "Bebek Giysileri",
+        "yarn": "Drops Baby Merino",
+        "desc": "Bebek teni için en yumuşak dokunuş. Kaşındırmayan %100 merino yünü.",
+        "tag": "En Yumuşak"
+      },
+      "toys": {
+        "title": "Amigurumi & Oyuncak",
+        "yarn": "Schachenmayr Catania",
+        "desc": "Yüksek kaliteli işlenmiş pamuk. Tüylenme yapmaz, oyuncaklar için güvenli ve mükemmeldir.",
+        "tag": "Pamuk"
+      },
+      "fashion": {
+        "title": "Hırka & Şallar",
+        "yarn": "Novita Nalle",
+        "desc": "7 Veljestä'dan biraz daha incedir. Zarif şallar ve daha hafif iç mekan giysileri için idealdir.",
+        "tag": "Zarif"
+      }
+    }
+  },
+  "common": {
+  "back": "Geri Dön"
+},
+  "gallery": {
+  "title_1": "El Emeği",
+  "title_2": "Portfolyom",
+  "description": "Tüm koleksiyonuma hoş geldiniz. Her bir parça sevgiyle, detaylara dikkat edilerek ve yüksek kaliteli malzemelerle elde üretilmiştir.",
+  "back_home": "Ana Sayfaya Dön",
+  "all_categories": "Tüm Projeler",
+  "items_count": "eser sergileniyor",
+  "cta_title": "Özel Bir Tasarım İster Misiniz?",
+  "cta_desc": "Bu ürünlerin çoğu en sevdiğiniz renklerde yeniden üretilebilir. Sipariş için bana Instagram üzerinden mesaj gönderebilirsiniz."
+},
+
+  "projects": {
+    "statuses": {
+      "available": "Stokta Var",
+      "sold_out": "Tükendi",
+      "custom_order": "Sipariş Üzerine"
+    },
+    "view_all_works": "Tüm Galeriyi Keşfet / Siparis ver",
+    "price": "Fiyat",
+    "order_now": "Sipariş Ver",
+    "wa_message": "Merhaba! Galerinizdeki {{item}} ürünüyle ilgileniyorum. Hala müsait mi?",
+    "badge": "Koleksiyon",
+    "title_1": "El Emeği",
+    "title_2": "Hazineler",
+    "description_main": "Yumuşacık oyuncaklardan şık aksesuarlara ve ev dekoruna kadar en yeni çalışmalarımı keşfedin.",
+    "items": {
+      "chick": {
+        "title": "Bahar Civciv Çiçeği",
+        "category": "El Yapımı Oyuncaklar",
+        "desc": "Çiçek altında dinlenen sevimli el yapımı amigurumi civciv, bulunduğu ortama sıcaklık ve neşe katar.",
+        "tags": ["Amigurumi", "El Yapımı", "Bahar", "Sevimli","Dekor"]
+      },
+      "koala": {
+        "title": "Uykucu Koala Uyku Arkadaşı",
+        "category": "El Yapımı Oyuncaklar",
+        "desc": "Yumuşak battaniyesi üzerinde dinlenen el yapımı amigurumi koala, bebekler için rahatlatıcı ve huzur verici bir arkadaş.",
+        "tags": ["Amigurumi",
+        "El Yapımı",
+        "Koala",
+        "Bebek",
+        "Uyku Arkadaşı"]
+      },
+      "sakura": {
+        "title": "Sakura Çiçeği Buketi",
+        "category": "El Yapımı Dekor",
+        "desc": "Cam vazoda sergilenen zarif el yapımı amigurumi sakura buketi, bulunduğu ortama kalıcı bir bahar ve şıklık katar.",
+        "tags": [ "Amigurumi",
+        "El Yapımı",
+        "Sakura",
+        "Çiçek",
+        "Ev Dekoru"]
+      }
+    },
+    "cta_text": "Daha fazlasını görmek veya sipariş vermek ister misiniz?",
+    "cta_button": "Beni Instagram'da Takip Edin"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "hero": {
+    "title_1": "Käsintehty Rakkaudella",
+    "title_1_1": "Virkkaustaiteilija",
+    "title_2": "Innostuksella",
+    "title_2_2": "Luotu.",
+    "title_3": "Huolella",
+    "title_4": "Tehty.",
+    "description": "Hei, olen Yadigar. Uskon, että jokainen silmukka kertoo tarinan. Muutan pehmeät langat ajattomiksi, käsintehdyiksi aarteiksi, jotka tuovat lämpöä ja väriä elämääsi.",
+    "contact_me": "Ota Yhteyttä",
+    "download_cv": "Katso Katalogi",
+    "follow_me": "Seuraa matkaani:",
+    "available": "Tilaustyöt mahdollista",
+    "law": "Hitaan elämän taito ja",
+    "software": "Käsintehty luovuus"
+  },
+
+  "navbar": {
+    "about": "Minun Tarinani",
+    "projects": "Työni /Tilaa",
+    "experience": "Matkani",
+    "ColorStudio": "Väristudio",
+    "search": "Etsi...",
+    "contact_me": "Ota Yhteyttä"
+  },
+  "color_studio": {
+    "badge": "Interaktiivinen Työpaja",
+    "title": "Väristudio",
+    "description": "Kokeile eri lankayhdistelmiä klassisessa isoäidinneliössä.",
+    "label_main": "Pääväri (Vartalo)",
+    "label_accent": "Tehosteväri (Yksityiskohdat)",
+    "reset": "Nollaa paletti",
+    "select_category": "Mitä olet tekemässä?",
+    "find_yarn": "Etsi täydellinen lanka",
+    "match_found": "Lähin vastaava lanka löytyi",
+    "categories": {
+      "socks": "Villasukat",
+      "baby": "Vauvaneuleet",
+      "toys": "Amigurumit / Lelut",
+      "fashion": "Neuleet / Muoti"
+    }
+  },
+  "yarn_guide": {
+    "badge": "Lanka-asiantuntija",
+    "title": "Suomalainen Lankaopas",
+    "subtitle": "Pohditko, mitä lankaa Suomessa kannattaisi käyttää? Tässä on oppaani paikallisiin merkkeihin.",
+    "buy_now": "Katso tuote",
+    "local_tip_title": "Paikallinen vinkki",
+    "local_tip_desc": "Kun ostat lankaa Prismasta tai Citymarketista, etsi 'Avainlippu'-symbolia. Se takaa suomalaisen suunnittelun ja laadun!",
+    "items": {
+      "socks": {
+        "title": "Villasukat",
+        "yarn": "Novita 7 Veljestä",
+        "desc": "Legendaarinen 'Seitsemän Veljestä'. Kestävä, lämmin ja jokaisen suomalaisen kodin vakiovaruste.",
+        "tag": "Kestävä"
+      },
+      "baby": {
+        "title": "Vauvanvaatteet",
+        "yarn": "Drops Baby Merino",
+        "desc": "Pehmein kosketus vauvan iholle. 100% merinovillaa, joka ei kutita lainkaan.",
+        "tag": "Pehmein"
+      },
+      "toys": {
+        "title": "Amigurumit & Lelut",
+        "yarn": "Schachenmayr Catania",
+        "desc": "Korkealaatuista merseroitua puuvillaa. Ei nukkaannu, joten se on turvallinen leluissa.",
+        "tag": "Puuvilla"
+      },
+      "fashion": {
+        "title": "Neuletakit & Huivit",
+        "yarn": "Novita Nalle",
+        "desc": "Hieman ohuempi kuin 7 Veljestä. Täydellinen tyylikkäisiin huiveihin ja kevyempiin sisäneuleisiin.",
+        "tag": "Tyylikäs"
+      }
+    }
+  },
+
+  "footer": {
+    "about": "Minun Tarinani",
+    "projects": "Työni / Tilaa",
+    "experience": "Matkani",
+    "contact": "Yhteystiedot",
+    "rights": "Crochet Cafe Finland. Kaikki oikeudet pidätetään."
+  },
+
+  "about": {
+    "badge": "Käsintehty Tarina",
+    "title_main": "Jokainen silmukka on",
+    "title_highlight": "Muisto.",
+    "p1": "Matkani virkkauksen parissa alkoi jo 5-vuotiaana, kun istuin isoäitini vieressä seuraten hänen käsitöitään. Ennen kuin osasin lukea tai kirjoittaa, suunnittelin ja valmistin jo pikkuruisia vaatteita nukeilleni.",
+    "p2": "Nykyään yhdistän turkkilaisen käsityöperinteemme rikkaat kuviot suomalaiseen moderniin ja seesteiseen estetiikkaan. Erikoistun monipuolisiin tekniikoihin klassisista amigurumeista moderniin puettavaan taiteeseen.",
+    "p3": "Suuri unelmani on avata viihtyisä 'Crochet Cafe' täällä Suomessa. Siihen asti jatkan luomista kotonani, lisäten jokaiseen silmukkaan palan sydäntäni.",
+    "quote": "Käsillä tekeminen antaa minulle mahdollisuuden jakaa palan sydäntäni maailman kanssa, silmukka kerrallaan.",
+    "highlights": {
+      "title_1": "Eettinen ja hidas",
+      "desc_1": "Harkittua tuotantoa, joka kunnioittaa käsityötä ja ympäristöä.",
+      "title_2": "Premium-materiaalit",
+      "desc_2": "Käytän vain parasta puuvillaa, villaa ja ekologisia lankoja kestävyyden takaamiseksi.",
+      "title_3": "Yksilölliset mallit",
+      "desc_3": "Ei kahta täysin samanlaista tuotetta. Jokainen esine on ainutlaatuinen luomus.",
+      "title_4": "Sydämelliset lahjat",
+      "desc_4": "Täydellisesti viimeisteltyjä tuotteita, jotka on suunniteltu säilymään sukupolvelta toiselle."
+    }
+  },
+  "gallery": {
+  "title_1": "Käsintehty",
+  "title_2": "Portfolio",
+  "description": "Tervetuloa kokoelmani pariin. Jokainen työ on valmistettu käsin rakkaudella, yksityiskohtiin panostaen ja korkealaatuisista materiaaleista.",
+  "back_home": "Takaisin kotiin",
+  "all_categories": "Kaikki työt",
+  "items_count": "teosta esillä",
+  "cta_title": "Kiinnostuitko tilaustyöstä?",
+  "cta_desc": "Useimmat näistä töistä voidaan valmistaa suosikkiväreissäsi. Lähetä minulle viesti Instagramissa tilauksia varten."
+},
+  "projects": {
+    "statuses": {
+      "available": "Saatavilla",
+      "sold_out": "Loppuunmyyty",
+      "custom_order": "Tilaustuote"
+    },
+    "view_all_works": "Selaa koko galleriaa / Tilaa",
+    "price": "Hinta",
+    "order_now": "Tilaa WhatsAppilla",
+    "wa_message": "Hei! Olen kiinnostunut gallerianne tuotteesta \"{{item}}\". Onko se vielä saatavilla?",
+    "badge": "Kokoelma",
+    "title_1": "Käsintehdyt",
+    "title_2": "Aarteet",
+    "description_main": "Tutustu uusimpiin töihini, pehmeistä pehmoleluista tyylikkäisiin asusteisiin ja kodin sisustukseen.",
+    "items": {
+      "chick": {
+        "title": "Keväinen Tipu Kukassa",
+        "category": "Käsintehdyt Lelut",
+        "desc": "Suloinen käsintehty amigurumi-tipu kukkivan kukan alla tuo lämpöä ja iloa ympäristöönsä.",
+        "tags": [
+          "Amigurumi",
+          "Ekologinen",
+          "Käsintehty",
+          "Kevät",
+          "Söpö",
+          "Sisustus"
+        ]
+      },
+      "koala": {
+        "title": "Uninen Koala Unilelu",
+        "category": "Käsintehdyt Lelut",
+        "desc": "Pehmeällä peitolla lepäävä käsintehty amigurumi-koala tuo lohtua ja rauhaa pienille lapsille.",
+        "tags": [
+          "Amigurumi",
+          "Käsintehty",
+          "Koala",
+          "Vauva",
+          "Unilelu"
+        ]
+      },
+      "sakura": {
+        "title": "Sakura Kukkakimppu",
+        "category": "Käsintehty Sisustus",
+        "desc": "Lasimaljakkoon aseteltu herkkä käsintehty amigurumi-sakura tuo tilaan eleganssia ja kevään tuntua ympäri vuoden.",
+        "tags": [
+          "Amigurumi",
+          "Käsintehty",
+          "Sakura",
+          "Kukka",
+          "Sisustus"
+            ]
+      }
+    },
+    "cta_text": "Haluatko nähdä lisää tai tehdä tilauksen?",
+    "cta_button": "Seuraa minua Instagramissa"
+},
+
+  "contact": {
+    "success_msg": "Viestisi on vastaanotettu! Palaan asiaan heti, kun lasken koukkuni alas.",
+    "error_msg": "Hups! Langat menivät solmuun. Yritä lähettää viestisi uudelleen.",
+    "header_1": "Ota Yhteyttä",
+    "header_2": "Tilataan",
+    "header_3": "unelmatyösi.",
+    "header_p": "Onko sinulla mielessäsi tietty malli? Tai haluatko vain sanoa hei? Kuulisin mielelläni sinusta ja loisin jotain erityistä juuri sinulle.",
+    "name": "Nimesi",
+    "y_name": "Miten voin puhutella sinua?",
+    "email": "Sähköpostisi",
+    "message": "Mitä sinulla on mielessäsi?",
+    "sending": "Lähetetään taikaa...",
+    "send": "Lähetä Viesti",
+    "info_title": "Työpajan tiedot",
+    "card_title": "Tilaustyöt",
+    "card_p": "Koukkuni on tällä hetkellä kiireinen, mutta olen aina avoin uusille toiveille! Jutellaan suosikkiväreistäsi.",
+    "info": {
+      "label_1": "Sähköposti",
+      "label_2": "WhatsApp",
+      "label_3": "Sijainti"
+    }
+  },
+
+  "exp": {
+    "header_1": "Luova polkuni",
+    "header_2": "Tarina jokaisen",
+    "header_3": "silmukan takana.",
+    "header_p": "Elinikäinen intohimo lapsuuden nukeista monikulttuuriseen käsityönäkemykseen.",
+    
+    "period_1": "2024 – Nykyhetki",
+    "role_1": "Perustaja & Taiteilija",
+    "company_1": "Yadigar's Crochet Cafe",
+    "desc_1": "Valmistan uniikkeja virkkaustöitä kotistudiossani. Yhdistän turkkilaista ja suomalaista käsityökulttuuria rakentaen samalla pohjaa tulevalle Crochet Cafelleni.",
+
+    "period_2": "2020 – 2023",
+    "role_2": "Kulttuurien fuusio",
+    "company_2": "Taiteellinen tutkimus",
+    "desc_2": "Keskityin perinteisten turkkilaisten pitsikuvioiden ja modernin pohjoismaisen estetiikan yhdistämiseen.",
+
+    "period_3": "2010 – 2019",
+    "role_3": "Taitojen syventäminen",
+    "company_3": "Itsenäinen harjoittelu",
+    "desc_3": "Syvensin osaamistani vaativissa virkkaustekniikoissa ja vaateompelussa. Siirryin nukkien vaatteista monimutkaisiin asusteisiin.",
+
+    "period_4": "Varhaislapsuus",
+    "role_4": "Ensimmäinen silmukka",
+    "company_4": "Isoäidin työpaja",
+    "desc_4": "Löysin intohimoni käsitöihin 5-vuotiaana. Vietin varhaiset vuoteni suunnittelemalla vaatekaappeja nukeilleni."
+  },
+
+  "pro": {
+    "header_1": "Kokoelma",
+    "header_2": "Käsintehdyt",
+    "header_3": "Aarteet",
+    "header_p": "Katso uusimpia töitäni pehmeästä kodinsisustuksesta persoonallisiin asusteisiin.",
+    "desc_1": "Talvikokoelma: Käsin neulottuja huiveja ja pipoja, jotka on suunniteltu antamaan lämpöä.",
+    "desc_2": "Amigurumi-ystävät: Pehmeitä ja rakastettavia leluja lapsille ja keräilijöille.",
+    "desc_3": "Kodin yksityiskohdat: Moderneja lasinalusia, koreja ja seinäkoristeita.",
+    "button": "Selaa Galleriaa"
+  }
+}
