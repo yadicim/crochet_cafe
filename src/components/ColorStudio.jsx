@@ -82,7 +82,7 @@ export const ColorStudio = () => {
                         <div className="space-y-8 order-2 lg:order-1">
                             
                             {/* Color Pickers */}
-                            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div className="grid grid-cols-1 md:grid-cols-2  gap-4  ">
                                 <div className="p-4 rounded-3xl bg-white/5 border border-white/10 group">
                                     <label className="block text-[10px] uppercase tracking-widest mb-3 opacity-50 font-bold">{t("color_studio.label_main")}</label>
                                     <div className="flex items-center gap-4">
@@ -149,9 +149,9 @@ export const ColorStudio = () => {
                         </div>
 
                         {/* Visualizer (Motif) */}
-                        <div className="relative flex justify-center items-center order-1 lg:order-2 py-10">
+                        <div className="relative flex justify-center items-center order-1 lg:order-2 py-10 w-full min-w-0">
                             <div className="absolute inset-0 blur-[120px] opacity-20 transition-colors duration-1000" style={{ background: color1 }}></div>
-                            <div className="relative w-64 h-64 md:w-80 md:h-80 grid grid-cols-3 grid-rows-3 gap-3 p-5 glass rounded-4xl rotate-3 hover:rotate-0 transition-transform duration-700">
+                            <div className=" relative w-48 h-48  md:w-80 md:h-80  grid grid-cols-3 grid-rows-3 gap-2 md:gap-3 p-3 md:p-5 glass rounded-4xl rotate-3 hover:rotate-0 transition-transform duration-700">
                                 {[...Array(9)].map((_, i) => (
                                     <div 
                                         key={i} 

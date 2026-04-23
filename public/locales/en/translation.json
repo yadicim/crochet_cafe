@@ -172,6 +172,11 @@
       "sold_out": "Sold Out",
       "custom_order": "Made to Order"
     },
+    "categories":{
+      "toys": "Amigurumi / Toys",
+      "accessories": "Accessories",
+      "home":"Home"
+    },
     "view_all_works": "Explore Full Gallery / Order",
     "price": "Price",
     "order_now": "Order Now",
@@ -216,6 +221,42 @@
         "Flower",
         "Home Decor"
           ]
+      },
+      "cat": {
+        "title": "Amigurumi Cat",
+        "category": "Handmade Toys",
+        "desc": "A soft, handmade crochet cat featuring tiny white paws and a friendly face. This gentle amigurumi companion is perfect for little hands to hold and brings a cozy, handcrafted charm to any shelf or nursery.",
+        "tags":  [
+          "Amigurumi",
+          "Handmade",
+          "Cute",
+          "Toy",
+          "Cat"
+        ]
+      },
+      "hair-acc": {
+        "title": " Lavender Bloom Crochet Hair Twines",
+        "category": "Handmade Hair Accessories",
+        "desc": "Whimsical handmade crochet hair accessories featuring deep purple spirals and vibrant teal leaves. Designed to be woven into braids or ponytails, these lightweight twines add a fairytale touch and a pop of color to any hairstyle.",
+        "tags": [
+          "Amigurumi",
+          "Handmade",
+          "Crochet Hair Accessory",
+          "Boho Style",
+          "Flower Hair Twine"
+        ]
+      },
+      "owl": {
+        "title": " Snowy Wisdom Amigurumi Owl",
+        "category": "Handmade Toys",
+        "desc": "A soft, handcrafted snowy owl with charming large eyes and a textured puff-stitch finish. This gentle white companion adds a touch of nature-inspired magic to any nursery or cozy corner.",
+        "tags": [
+          "Amigurumi",
+          "Handmade",
+          "Owl",
+          "Child",
+          "Comfort Toy"
+        ]
       }
     },
     "cta_text": "Want to see more or place an order?",

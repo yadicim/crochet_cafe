@@ -118,6 +118,11 @@
       "sold_out": "Loppuunmyyty",
       "custom_order": "Tilaustuote"
     },
+     "categories":{
+      "toys": "Amigurumi / Lelut",
+      "accessories": "Tarvikkeet",
+      "home":"Koti"
+    },
     "view_all_works": "Selaa koko galleriaa / Tilaa",
     "price": "Hinta",
     "order_now": "Tilaa WhatsAppilla",
@@ -163,7 +168,25 @@
           "Kukka",
           "Sisustus"
             ]
-      }
+      }, 
+      "cat": {
+      "title": "Pikku tassut -virkattu kissa",
+      "category": "Käsintehdyt lelut",
+      "desc": "Käsintehty virkattu kissa, jolla on pienet valkoiset tassut ja ystävälliset kasvot. Tämä lempeä amigurumi-ystävä sopii täydellisesti pienen lapsen käteen ja tuo kodikasta, käsintehtyä tunnelmaa lastenhuoneeseen.",
+      "tags": ["Amigurumi", "Käsintehty", "Lahja kissaystävälle", "Lastenhuone", "Pehmolelu"]
+    },
+     "hair-acc": {
+      "title": "Laventelinkukka virkatut hiuskoristeet",
+      "category": "Käsintehdyt hiustarvikkeet",
+      "desc": "Oikukkaat käsintehdyt virkatut hiuskoristeet, joissa on syvän liiloja kierteitä ja kirkkaan vihreitä lehtiä. Nämä kevyet koristeet on suunniteltu punottaviksi letteihin, tuoden satumaisen silauksen ja väriä mihin tahansa kampaukseen.",
+      "tags": ["Virkattu hiuskoriste", "Boho-tyyli", "Käsintehty lettikoru", "Kukka-hiuskoriste", "Käsityö"]
+    },
+     "owl": {
+      "title": "Lumenvalkea virkattu pöllö",
+      "category": "Käsintehdyt lelut",
+      "desc": "Pehmeä, käsintehty lumipöllö, jolla on valloittavat suuret silmät ja kaunis pintakuviointi. Tämä lempeä valkoinen ystävä tuo ripauksen luonnon taikaa lastenhuoneeseen tai kodin sisustukseen.",
+      "tags": ["Amigurumi", "Käsintehty", "Pöllö", "Lastenhuone", "Pehmolelu"]
+    }
     },
     "cta_text": "Haluatko nähdä lisää tai tehdä tilauksen?",
     "cta_button": "Seuraa minua Instagramissa"

@@ -1,9 +1,13 @@
 // src/data/projects.js
 export const PROJECTS_DATA = [
+
+
+  //TOYS
   {
     id: "chick",
-    image: "/projects/bird.jpg",
-    video: "/projects/bird.mp4",
+    category: "toys",
+    image: "/projects/toy/bird.jpg",
+    video: "/projects/toy/bird.mp4",
     price: 30.00, // Sayı olarak tutmak ileride sepet yaparsan toplama işlemi için iyidir
     currency: "€", 
     status: "available", // available, sold_out, or custom_order
@@ -16,13 +20,35 @@ export const PROJECTS_DATA = [
       "Decor"
     ],
   },
+    {
+    id: "cat",
+    category: "toys",
+    image: "/projects/toy/cat1.jpg",
+    slides: [
+      { url: '/projects/toy/cat1.jpg', caption: 'Slide 1' },
+      { url: '/projects//toy/cat2.jpg', caption: 'Slide 2' },
+      { url: '/projects//toy/cat3.jpg', caption: 'Slide 2' }
+    ],
+    price: 20.00,
+    currency: "€",
+    status: "available", 
+    
+    tags: [
+      "Amigurumi",
+      "Handmade",
+      "Cute",
+      "Toy",
+      "Cat"
+    ],
+  },
   {
     id: "koala",
-    image: "/projects/koala1.jpg",
+    category: "toys",
+    image: "/projects/toy/koala1.jpg",
     slides: [
-      { url: '/projects/koala1.jpg', caption: 'Slide 1' },
-      { url: '/projects/koala3.jpg', caption: 'Slide 2' },
-      { url: '/projects/koala2.jpg', caption: 'Slide 3' }
+      { url: '/projects/toy/koala1.jpg', caption: 'Slide 1' },
+      { url: '/projects/toy/koala3.jpg', caption: 'Slide 2' },
+      { url: '/projects/toy/koala2.jpg', caption: 'Slide 3' }
     ],
     price: 35.00,
     currency: "€",
@@ -37,15 +63,36 @@ export const PROJECTS_DATA = [
     ],
   },
   {
-    id: "sakura",
-    image: "/projects/sakura1.jpg",
-    slides: [
-      { url: '/projects/sakura1.jpg', caption: 'Slide 1' },
-      { url: '/projects/sakura2.jpg', caption: 'Slide 2' }
-    ],
+    id: "owl",
+    image: "/projects/toy/owl.jpg",
+    category: "toys",
+   
     price: 20.00,
     currency: "€",
-    status: "available", // Stokta yok ama sipariş üzerine yapılabilir
+    status: "available", 
+    
+    tags: [
+      "Amigurumi",
+      "Handmade",
+      "Cute",
+      "Toy",
+      "Owl"
+    ],
+  },
+
+  //HOME
+
+  {
+    id: "sakura",
+    category: "home",
+    image: "/projects/home/sakura1.jpg",
+    slides: [
+      { url: '/projects/home/sakura1.jpg', caption: 'Slide 1' },
+      { url: '/projects/home/sakura2.jpg', caption: 'Slide 2' }
+    ],
+    price: 25.00,
+    currency: "€",
+    status: "available", 
     
     tags: [
       "Amigurumi",
@@ -55,4 +102,47 @@ export const PROJECTS_DATA = [
       "Home Decor"
     ],
   },
+  
+  {
+    id: "lavender",
+    category: "home",
+    image: "/projects/home/lavender.jpg",
+    
+    price: 25.00,
+    currency: "€",
+    status: "available", 
+    
+    tags: [
+      "Amigurumi",
+      "Handmade",
+      "Lavender",
+      "Flower",
+      "Home Decor"
+    ],
+  },
+  //ACCESSORIES
+
+  {
+    id: "hair-acc",
+    category: "accessories",
+    image: "/projects/acc/hair-acc1.jpg",
+    slides: [
+      { url: '/projects/acc/hair-acc1.jpg', caption: 'Slide 1' },
+      { url: '/projects/acc/hair-acc2.jpg', caption: 'Slide 2' },
+      
+    ],
+    price: 10.00  ,
+    currency:  "€  ",
+    priceDetail: "1 kpl",
+    status: "available", 
+    
+    tags: [
+      "Amigurumi",
+      "Handmade",
+      "Crochet Hair Accessory",
+      "Boho Style",
+      "Flower Hair Twine"
+    ],
+  },
+  
 ];

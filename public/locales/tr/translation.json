@@ -172,6 +172,11 @@
       "sold_out": "Tükendi",
       "custom_order": "Sipariş Üzerine"
     },
+     "categories":{
+      "toys": "Amigurumi / Oyuncak",
+      "accessories": "Aksesuar",
+      "home":"Dekor"
+    },
     "view_all_works": "Tüm Galeriyi Keşfet / Siparis ver",
     "price": "Fiyat",
     "order_now": "Sipariş Ver",
@@ -206,7 +211,25 @@
         "Sakura",
         "Çiçek",
         "Ev Dekoru"]
-      }
+      },
+      "cat": {
+      "title": "Minik Patili Örgü Kedi",
+      "category": "El Yapımı Oyuncaklar",
+      "desc": "El yapimi, minik beyaz patili ve dost canlısı bakışlı kedi. Küçük ellerin kolayca kavrayabileceği bu sevimli amigurumi, her odaya sıcak ve el emeği bir dokunuş katar.",
+      "tags": ["Amigurumi", "El Yapımı", "Kedi Hediyesi", "Bebek Odası", "Yumuşak Oyuncak"]
+    },
+    "hair-acc": {
+      "title": "Lavanta Esintili Örgü Saç Aksesuarı",
+      "category": "El Yapımı Saç Aksesuarları",
+      "desc": "Koyu mor sarmallar ve canlı turkuaz yapraklarla tasarlanmış el emeği örgü saç aksesuarları. Örgülerin arasına kolayca yerleştirilebilen bu hafif ve şık eklentiler, saçınıza masalsı bir hava ve renkli bir dokunuş katar.",
+      "tags": ["Örgü Saç Aksesuarı", "Boho Tarzı", "El Yapımı Saç Takısı", "Çiçekli Saç Örgüsü", "Tasarım Hediye"]
+    },
+       "owl": {
+      "title": "Kar Tanesi Örgü Baykuş",
+      "category": "El Yapımı Oyuncaklar",
+      "desc": "Büyük, sevimli gözleri ve özel dokulu örgü tekniğiyle hazırlanmış yumuşacık el yapımı baykuş. Bu zarif beyaz dost, çocuk odalarına veya dekoratif köşelere doğadan bir sıcaklık katar.",
+      "tags": ["Amigurumi", "El Yapımı", "Baykus", "Bebek Odası", "Yumuşak Oyuncak"]
+    }
     },
     "cta_text": "Daha fazlasını görmek veya sipariş vermek ister misiniz?",
     "cta_button": "Beni Instagram'da Takip Edin"
