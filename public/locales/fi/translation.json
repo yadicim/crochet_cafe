@@ -157,7 +157,27 @@
           "Unilelu"
         ]
       },
-      "sakura": {
+        "cat": {
+      "title": "Pikku tassut -virkattu kissa",
+      "category": "Käsintehdyt lelut",
+      "desc": "Käsintehty virkattu kissa, jolla on pienet valkoiset tassut ja ystävälliset kasvot. Tämä lempeä amigurumi-ystävä sopii täydellisesti pienen lapsen käteen ja tuo kodikasta, käsintehtyä tunnelmaa lastenhuoneeseen.",
+      "tags": ["Amigurumi", "Käsintehty", "Lahja kissaystävälle", "Lastenhuone", "Pehmolelu"]
+      },
+
+      
+      "owl": {
+      "title": "Lumenvalkea virkattu pöllö",
+      "category": "Käsintehdyt lelut",
+      "desc": "Pehmeä, käsintehty lumipöllö, jolla on valloittavat suuret silmät ja kaunis pintakuviointi. Tämä lempeä valkoinen ystävä tuo ripauksen luonnon taikaa lastenhuoneeseen tai kodin sisustukseen.",
+      "tags": ["Amigurumi", "Käsintehty", "Pöllö", "Lastenhuone", "Pehmolelu"]
+    },
+      "bear_rattle": {
+      "title": "Nukkuva karhu -virkattu helistin",
+      "category": "Käsintehdyt lelut",
+      "desc": "Lempeä, käsintehty virkattu helistin, jossa on rauhallisesti nukkuva karhu pitkässä turkoosissa yömyssyssä. Valmistettu pehmeästä, vauvaturvallisesta langasta ja luonnonpuisesta renkaasta vauvasi iloksi ja tueksi.",
+      "tags":["Vauvan helistin", "Virkattu lelu", "Vauvalahja", "Ekologinen lelu", "Käsityö"]
+    },
+    "sakura": {
         "title": "Sakura Kukkakimppu",
         "category": "Käsintehty Sisustus",
         "desc": "Lasimaljakkoon aseteltu herkkä käsintehty amigurumi-sakura tuo tilaan eleganssia ja kevään tuntua ympäri vuoden.",
@@ -169,24 +189,46 @@
           "Sisustus"
             ]
       }, 
-      "cat": {
-      "title": "Pikku tassut -virkattu kissa",
-      "category": "Käsintehdyt lelut",
-      "desc": "Käsintehty virkattu kissa, jolla on pienet valkoiset tassut ja ystävälliset kasvot. Tämä lempeä amigurumi-ystävä sopii täydellisesti pienen lapsen käteen ja tuo kodikasta, käsintehtyä tunnelmaa lastenhuoneeseen.",
-      "tags": ["Amigurumi", "Käsintehty", "Lahja kissaystävälle", "Lastenhuone", "Pehmolelu"]
-    },
+       "lavender": {
+        "title": "Laventelikimppu-kangastaulu",
+        "category": "Käsintehty Sisustus",
+        "desc": "Ainutlaatuinen 3D-seinätaideteos, jossa käsintehty virkattu laventelikimppu on kiinnitetty puhtaalle valkoiselle kankaalle. Tämä 'ikuinen kimppu' yhdistää käsityötaiteen ja modernin sisustuksen, tuoden levollisen Provencen tunnelman kotiisi.",
+        "tags": [
+          "Virkattu seinätaide", "Laventeli", "3D-sisustus", "Käsityö", "Kukkataulu"
+            ]
+      }, 
+      "robin_bird_nest": {
+        "title": "Keväinen punarinta pesässään",
+        "category": "Käsintehty Sisustus",
+        "desc": "Hurmaava käsintehty virkattu punarinta lepäämässä luonnollisen näköisessä pesässä. Ihana sesonkikoriste kevään juhlistamiseen tai merkityksellinen lahja lintujen ystävälle.",
+        "tags":["Virkattu lintu", "Punarinta", "Kevätkoriste", "Luonto", "Käsityö"]
+      },
+       "bellflower_mirror": {
+        "title": "Kissankello-olkipelili",
+        "category": "Käsintehty Sisustus",
+        "desc": "Upea valmistettu olkipeili, jota koristaa kruunu herkkiä virkattuja kissankelloja. Nämä ikoniset liilan, vaaleanpunaisen ja valkoisen sävyiset kukat tuovat suomalaisen kesäkedon taikaa suoraan kotiisi",
+        "tags":["Kissankello", "Kukkapeili", "Boho-sisustus", "Virkattu peili", "Suomalainen käsityö"]
+      },
+    
      "hair-acc": {
       "title": "Laventelinkukka virkatut hiuskoristeet",
       "category": "Käsintehdyt hiustarvikkeet",
       "desc": "Oikukkaat käsintehdyt virkatut hiuskoristeet, joissa on syvän liiloja kierteitä ja kirkkaan vihreitä lehtiä. Nämä kevyet koristeet on suunniteltu punottaviksi letteihin, tuoden satumaisen silauksen ja väriä mihin tahansa kampaukseen.",
       "tags": ["Virkattu hiuskoriste", "Boho-tyyli", "Käsintehty lettikoru", "Kukka-hiuskoriste", "Käsityö"]
     },
-     "owl": {
-      "title": "Lumenvalkea virkattu pöllö",
-      "category": "Käsintehdyt lelut",
-      "desc": "Pehmeä, käsintehty lumipöllö, jolla on valloittavat suuret silmät ja kaunis pintakuviointi. Tämä lempeä valkoinen ystävä tuo ripauksen luonnon taikaa lastenhuoneeseen tai kodin sisustukseen.",
-      "tags": ["Amigurumi", "Käsintehty", "Pöllö", "Lastenhuone", "Pehmolelu"]
+     "coffee_bookmark": {
+      "title": "Kahvi ja Kukka -virkattu kirjanmerkki",
+      "category": "Asusteet",
+      "desc": "Ihanat käsintehdyt kirjanmerkit, joissa on suloinen kahvikuppi-yläosa ja herkkä kukka- tai lehtiriipus päässä. Nämä värikkäät lukukaverit tekevät jokaisesta lukuhetkestä hieman taianomaisemman ja ovat täydellinen pieni lahja kirjojen ystäville.",
+      "tags": ["Virkattu kirjanmerkki", "Lahja lukijalle", "Käsintehty", "Kahvifani", "Kirjanmerkki"]
+    },
+     "kawaii_cup_keychains": {
+      "title": "Kawaii Emoji-Kuppi Virkattu Avaimenperä",
+      "category": "Asusteet",
+      "desc": "Ihanat käsintehdyt virkatut avaimenperät, joissa on suloisia kahvikuppeja hurmaavilla emoji-ilmeillä. Saatavilla kirkkaissa väreissä, nämä iloiset kumppanit lisäävät persoonallisuutta ja onnellisuutta avaimiisi tai laukkuusi.",
+      "tags": ["Kawaii Avaimenperä", "Emoji-asuste", "Käsintehty lahja", "Söpö virkkaus", "Laukun koriste"]
     }
+     
     },
     "cta_text": "Haluatko nähdä lisää tai tehdä tilauksen?",
     "cta_button": "Seuraa minua Instagramissa"

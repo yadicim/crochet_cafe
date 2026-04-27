@@ -186,6 +186,8 @@
     "title_2": "Treasures",
     "description_main": "Explore my latest works, from soft plushies to stylish accessories and home decor.",
     "items": {
+
+      
       "chick": {
         "title": "Spring Chick Blossom",
         "category": "Handmade Toys",
@@ -210,6 +212,38 @@
           "Comfort Toy"
         ]
       },
+       "cat": {
+        "title": "Amigurumi Cat",
+        "category": "Handmade Toys",
+        "desc": "A soft, handmade crochet cat featuring tiny white paws and a friendly face. This gentle amigurumi companion is perfect for little hands to hold and brings a cozy, handcrafted charm to any shelf or nursery.",
+        "tags":  [
+          "Amigurumi",
+          "Handmade",
+          "Cute",
+          "Toy",
+          "Cat"
+        ]
+      },
+        "owl": {
+        "title": " Snowy Wisdom Amigurumi Owl",
+        "category": "Handmade Toys",
+        "desc": "A soft, handcrafted snowy owl with charming large eyes and a textured puff-stitch finish. This gentle white companion adds a touch of nature-inspired magic to any nursery or cozy corner.",
+        "tags": [
+          "Amigurumi",
+          "Handmade",
+          "Owl",
+          "Child",
+          "Comfort Toy"
+        ]
+      },
+      "bear_rattle": {
+        "title": " Sleeping Bear Crochet Baby Rattle",
+        "category": "Handmade Toys",
+        "desc": "A gentle, handmade crochet rattle featuring a peaceful sleeping bear with a long turquoise nightcap. Crafted with soft, baby-safe yarn and a natural wooden ring, it's designed to soothe and entertain your little one.",
+        "tags": [
+          "Baby Rattle", "Crochet Toy", "Newborn Gift", "Eco-friendly Toy", "Nursery Essential"
+        ]
+      },
       "sakura": {
         "title": "Sakura Blossom Bouquet",
         "category": "Handmade Decor",
@@ -222,18 +256,29 @@
         "Home Decor"
           ]
       },
-      "cat": {
-        "title": "Amigurumi Cat",
-        "category": "Handmade Toys",
-        "desc": "A soft, handmade crochet cat featuring tiny white paws and a friendly face. This gentle amigurumi companion is perfect for little hands to hold and brings a cozy, handcrafted charm to any shelf or nursery.",
-        "tags":  [
-          "Amigurumi",
-          "Handmade",
-          "Cute",
-          "Toy",
-          "Cat"
-        ]
+      "lavender": {
+        "title": "Lavender Bouquet Canvas Wall Art",
+        "category": "Home Decor",
+        "desc": "A charming handmade crochet robin with its iconic red breast, resting in a natural-looking nest. A wonderful seasonal decoration to celebrate spring or a thoughtful gift for bird watchers.",
+        "tags": [
+        "Crochet Bird", "Robin Redbreast", "Spring Decor", "Nature Inspired", "Bird Watcher Gift"
+          ]
       },
+         "robin_bird_nest": {
+        "title": "Spring Robin in a Cozy Nest",
+        "category": "Home Decor",
+        "desc": "A unique 3D wall art piece featuring a handmade crochet lavender bouquet mounted on a clean white canvas. This 'everlasting bouquet' combines the texture of fiber art with modern home decor, perfect for adding a peaceful Provencal touch to your walls.",
+        "tags": [
+        "Crochet Wall Art", "Lavender Decor", "3D Wall Decor", "Handmade Gift", "Floral Canvas"
+          ]
+      },
+          "bellflower_mirror": {
+        "title": "Kissankello (Bellflower) Straw Mirror",
+        "category": "Home Decor",
+        "desc": "A stunning straw mirror decorated with a crown of delicate crochet bellflowers (Kissankello). These iconic purple, pink, and white Nordic blooms bring the magic of a Finnish summer meadow directly to your walls.",
+        "tags": ["Bellflower Mirror", "Kissankello", "Boho Wall Art", "Crochet Flowers", "Nordic Decor"]
+      },
+     
       "hair-acc": {
         "title": " Lavender Bloom Crochet Hair Twines",
         "category": "Handmade Hair Accessories",
@@ -246,18 +291,19 @@
           "Flower Hair Twine"
         ]
       },
-      "owl": {
-        "title": " Snowy Wisdom Amigurumi Owl",
-        "category": "Handmade Toys",
-        "desc": "A soft, handcrafted snowy owl with charming large eyes and a textured puff-stitch finish. This gentle white companion adds a touch of nature-inspired magic to any nursery or cozy corner.",
-        "tags": [
-          "Amigurumi",
-          "Handmade",
-          "Owl",
-          "Child",
-          "Comfort Toy"
-        ]
+      "coffee_bookmark": {
+        "title": " Cozy Coffee Crochet Bookmarks",
+        "category": "Accessories",
+        "desc": "Whimsical handmade bookmarks featuring a cozy coffee cup top and a delicate flower or leaf charm at the end. These colorful companions make every reading session a bit more magical and are the perfect small gift for book lovers.",
+        "tags": ["Crochet Bookmark", "Book Lover Gift", "Handmade Stationery", "Coffee Lovers", "Floral Accessories"]
+      },
+       "kawaii_cup_keychains": {
+        "title": " Kawaii Emoji Cup Crochet Keychains",
+        "category": "Accessories",
+        "desc": "Whimsical handmade crochet keychains featuring adorable coffee cups with charming emoji expressions. Available in vibrant colors, these cheerful companions add a pop of personality and happiness to your keys or bag.",
+        "tags": ["Kawaii Keychain", "Emoji Accessory", "Handmade Gift", "Cute Crochet", "Bag Charm"]
       }
+    
     },
     "cta_text": "Want to see more or place an order?",
     "cta_button": "Follow Me on Instagram"

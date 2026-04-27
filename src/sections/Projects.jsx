@@ -12,7 +12,14 @@ export const Projects = () => {
     const isLight = !theme.state.lightMode;
 
     // Ana sayfada sadece ilk 3 projeyi gösteriyoruz
-    const homeProjects = PROJECTS_DATA.slice(0, 3);
+   const homeProjects = PROJECTS_DATA.reduce((acc, current) => {
+        // Eğer bu kategori daha önce eklenmediyse, listeye ekle
+        const categoryExists = acc.find(item => item.category === current.category);
+        if (!categoryExists && acc.length < 3) { // Toplam 3 tane ile sınırlamak istersen
+            acc.push(current);
+        }
+        return acc;
+    }, []);
 
     return (
         <section id="projects" className="py-32 relative overflow-hidden">
@@ -79,7 +86,7 @@ export const Projects = () => {
                                     {/* Etiketler (Teknik veriden geliyor) */}
                                     <div className="flex flex-wrap gap-2 pt-2">
                                         {item.tags?.map((tag) => (
-                                            <span key={tag} className="px-3 py-1 rounded-full bg-(--color-surface) text-[10px] font-bold border border-(--color-border) text-(--color-muted-foreground) uppercase tracking-tighter">
+                                            <span key={tag} className="px-3 py-1 rounded-full bg-(--color-surface) text-[10px] font-bold border border-(--color-border) text-(--color-opposite) uppercase tracking-tighter">
                                                 #{tag}
                                             </span>
                                         ))} 

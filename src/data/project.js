@@ -79,6 +79,17 @@ export const PROJECTS_DATA = [
       "Owl"
     ],
   },
+   {
+    id: "bear_rattle",
+    image: "/projects/toy/bear-rattle.jpg",
+    category: "toys",
+   
+    price: 15.00,
+    currency: "€",
+    status: "custom_order", 
+    
+    tags:["Baby Rattle", "Crochet Toy", "Newborn Gift", "Eco-friendly Toy", "Nursery Essential"]
+  },
 
   //HOME
 
@@ -108,7 +119,7 @@ export const PROJECTS_DATA = [
     category: "home",
     image: "/projects/home/lavender.jpg",
     
-    price: 25.00,
+    price: 30.00,
     currency: "€",
     status: "available", 
     
@@ -119,6 +130,37 @@ export const PROJECTS_DATA = [
       "Flower",
       "Home Decor"
     ],
+  },
+  {
+    id: "robin_bird_nest",
+    category: "home",
+     image: "/projects/home/robin1.jpg",
+    slides: [
+      { url: '/projects/home/robin1.jpg', caption: 'Slide 1' },
+      { url: '/projects/home/robin2.jpg', caption: 'Slide 2' }
+    ],
+    
+    price: 20.00,
+    currency: "€",
+    status: "available", 
+    
+    tags: ["Crochet Bird", "Robin Redbreast", "Spring Decor", "Nature Inspired", "Bird Watcher Gift"]
+  },
+   {
+    id: "bellflower_mirror",
+    category: "home",
+     image: "/projects/home/kissa-mirror1.jpg",
+    slides: [
+      { url: '/projects/home/kissa-mirror1.jpg', caption: 'Slide 1' },
+      { url: '/projects/home/kissa-mirror2.jpg', caption: 'Slide 2' },
+      { url: '/projects/home/kissa-mirror3.jpg', caption: 'Slide 3' }
+    ],
+    
+    price: 40.00,
+    currency: "€",
+    status: "available", 
+    
+    tags: ["Bellflower Mirror", "Kissankello", "Boho Wall Art", "Crochet Flowers", "Nordic Decor"]
   },
   //ACCESSORIES
 
@@ -143,6 +185,46 @@ export const PROJECTS_DATA = [
       "Boho Style",
       "Flower Hair Twine"
     ],
+  },
+  {
+    id: "coffee_bookmark",
+    category: "accessories",
+    image: "/projects/acc/bookmark1.jpg",
+    slides: [
+      { url: '/projects/acc/bookmark1.jpg', caption: 'Slide 1' },
+      { url: '/projects/acc/bookmark2.jpg', caption: 'Slide 2' },
+      { url: '/projects/acc/bookmark3.jpg', caption: 'Slide 3' },
+      
+    ],
+    price: 10.00  ,
+    currency:  "€  ",
+    priceDetail: "1 kpl",
+    status: "available", 
+    
+    tags: [
+      "Crochet Bookmark",
+      "Amigurumi",
+      "Handmade",
+      "Coffee Lovers",
+      "Book Lover Gift"
+    ],
+  },
+  {
+    id: "kawaii_cup_keychains",
+    category: "accessories",
+    image: "/projects/acc/keychain1.jpg",
+    slides: [
+      { url: '/projects/acc/keychain1.jpg', caption: 'Slide 1' },
+      { url: '/projects/acc/keychain2.jpg', caption: 'Slide 2' }
+     
+      
+    ],
+    price: 15.00  ,
+    currency:  "€  ",
+    priceDetail: "1 kpl",
+    status: "available", 
+    
+    tags: ["Kawaii Keychain", "Emoji Accessory", "Handmade Gift", "Cute Crochet", "Bag Charm"]
   },
   
 ];

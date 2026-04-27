@@ -202,6 +202,24 @@
         "Bebek",
         "Uyku Arkadaşı"]
       },
+        "cat": {
+      "title": "Minik Patili Örgü Kedi",
+      "category": "El Yapımı Oyuncaklar",
+      "desc": "El yapimi, minik beyaz patili ve dost canlısı bakışlı kedi. Küçük ellerin kolayca kavrayabileceği bu sevimli amigurumi, her odaya sıcak ve el emeği bir dokunuş katar.",
+      "tags": ["Amigurumi", "El Yapımı", "Kedi Hediyesi", "Bebek Odası", "Yumuşak Oyuncak"]
+    },
+        "owl": {
+      "title": "Kar Tanesi Örgü Baykuş",
+      "category": "El Yapımı Oyuncaklar",
+      "desc": "Büyük, sevimli gözleri ve özel dokulu örgü tekniğiyle hazırlanmış yumuşacık el yapımı baykuş. Bu zarif beyaz dost, çocuk odalarına veya dekoratif köşelere doğadan bir sıcaklık katar.",
+      "tags": ["Amigurumi", "El Yapımı", "Baykus", "Bebek Odası", "Yumuşak Oyuncak"]
+    },
+        "bear_rattle": {
+      "title": "Uykucu Ayı Örgü Bebek Çıngırağı",
+      "category": "El Yapımı Oyuncaklar",
+      "desc": "Turkuaz uzun uyku başlığıyla huzurla uyuyan sevimli bir ayı figürlü el yapımı çıngırak. Bebek dostu yumuşak ipler ve doğal ahşap halka kullanılarak hazırlanan bu oyuncak, minikler için hem güvenli hem de çok şirin bir hediye.",
+      "tags": ["Bebek Çıngırağı", "Amigurumi Oyuncak", "Yeni Doğan Hediyesi", "Doğal Oyuncak", "Örgü Çıngırak"]
+    },
       "sakura": {
         "title": "Sakura Çiçeği Buketi",
         "category": "El Yapımı Dekor",
@@ -212,24 +230,45 @@
         "Çiçek",
         "Ev Dekoru"]
       },
-      "cat": {
-      "title": "Minik Patili Örgü Kedi",
-      "category": "El Yapımı Oyuncaklar",
-      "desc": "El yapimi, minik beyaz patili ve dost canlısı bakışlı kedi. Küçük ellerin kolayca kavrayabileceği bu sevimli amigurumi, her odaya sıcak ve el emeği bir dokunuş katar.",
-      "tags": ["Amigurumi", "El Yapımı", "Kedi Hediyesi", "Bebek Odası", "Yumuşak Oyuncak"]
-    },
+        "lavender": {
+        "title": "Lavanta Buketi Kanvas Tablo",
+        "category": "Ev Dekorasyonu",
+        "desc": "Beyaz kanvas üzerine monte edilmiş, el emeği örgü lavanta buketinden oluşan özgün bir 3D duvar sanatı. El sanatının dokusunu modern dekorasyonla birleştiren bu 'hiç solmayan buket', duvarlarınıza huzurlu bir Provence havası katar.",
+        "tags": [ "Örgü Duvar Sanatı", "Lavanta Dekoru", "3D Tablo", "El Yapımı Hediye", "Kanvas Tablo"]
+      },
+         "robin_bird_nest": {
+        "title": "Yuvasında Bahar Kızılgerdanı",
+        "category": "Ev Dekorasyonu",
+        "desc": "İkonik kırmızı göğsüyle çok şirin, el yapımı örgü bir kızılgerdan kuşu ve doğal görünümlü yuvası. Baharı karşılamak için harika bir mevsimlik dekorasyon veya kuş gözlemcileri için anlamlı bir hediye.",
+        "tags": ["Örgü Kuş", "Kızılgerdan", "Bahar Dekoru", "Doğadan İlham Alan", "Hediye Kuş"]
+      },
+        "bellflower_mirror": {
+        "title": "Kissankello (Çan Çiçeği) Hasır Ayna",
+        "category": "Ev Dekorasyonu",
+        "desc": "Narin örgü çan çiçekleriyle (Kissankello) süslenmiş, el yapımı hasır ayna. Mor, pembe ve beyaz tonlarındaki bu ikonik İskandinav çiçekleri, evinizin duvarlarına İskandinav yaz çayırlarının huzurunu ve doğal zarafetini taşır.",
+        "tags": ["Çan Çiçeği Ayna", "Kissankello", "Bohem Dekor", "Örgü Çiçek"]
+      },
+    
     "hair-acc": {
       "title": "Lavanta Esintili Örgü Saç Aksesuarı",
       "category": "El Yapımı Saç Aksesuarları",
       "desc": "Koyu mor sarmallar ve canlı turkuaz yapraklarla tasarlanmış el emeği örgü saç aksesuarları. Örgülerin arasına kolayca yerleştirilebilen bu hafif ve şık eklentiler, saçınıza masalsı bir hava ve renkli bir dokunuş katar.",
       "tags": ["Örgü Saç Aksesuarı", "Boho Tarzı", "El Yapımı Saç Takısı", "Çiçekli Saç Örgüsü", "Tasarım Hediye"]
     },
-       "owl": {
-      "title": "Kar Tanesi Örgü Baykuş",
-      "category": "El Yapımı Oyuncaklar",
-      "desc": "Büyük, sevimli gözleri ve özel dokulu örgü tekniğiyle hazırlanmış yumuşacık el yapımı baykuş. Bu zarif beyaz dost, çocuk odalarına veya dekoratif köşelere doğadan bir sıcaklık katar.",
-      "tags": ["Amigurumi", "El Yapımı", "Baykus", "Bebek Odası", "Yumuşak Oyuncak"]
+     "coffee_bookmark": {
+      "title": "Kahve ve Çiçek Temalı Örgü Kitap Ayraçları",
+      "category": "Aksesuar",
+      "desc": "Üst kısmında sevimli bir kahve fincanı, ucunda ise zarif bir çiçek veya yaprak detayı bulunan el yapımı kitap ayraçları. Okuma saatlerinize renk katacak bu neşeli aksesuarlar, kitap kurtları için hem özgün hem de işlevsel bir hediye seçeneği.",
+      "tags": ["Örgü Kitap Ayracı", "Kitap Kurdu Hediyesi", "El Yapımı Aksesuar", "Kahve Severler", "Hediye Fikri"]
+    },
+     "kawaii_cup_keychains": {
+      "title": "Kawaii Emoji Fincan Örgü Anahtarlıklar",
+      "category": "Aksesuar",
+      "desc": "Üzerinde sevimli emoji ifadeleri bulunan el emeği örgü fincan anahtarlıklar. Canlı renklerde sunulan bu neşeli dostlar, anahtarlarınıza veya çantanıza kişilik ve mutluluk katacak özgün bir hediye seçeneği.",
+      "tags": ["Kawaii Anahtarlık", "Emoji Aksesuar", "El Yapımı Hediye", "Sevimli Örgü", "Çanta Süsü"]
     }
+
+   
     },
     "cta_text": "Daha fazlasını görmek veya sipariş vermek ister misiniz?",
     "cta_button": "Beni Instagram'da Takip Edin"
