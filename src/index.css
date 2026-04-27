@@ -146,6 +146,21 @@
     transform: translateY(-200px);
   }
 }
+@keyframes spiral-stitch {
+  0% {
+    /* Merkezde çok küçük ve şeffaf başla */
+    transform: rotate(var(--rotation)) translateY(0) scale(0);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.4;
+  }
+  100% {
+    /* Dönerken devasa bir sarmal çizerek dışarı çık */
+    transform: rotate(calc(var(--rotation) + 270deg)) translateY(800px) scale(2.5);
+    opacity: 0;
+  }
+}
 
 
 

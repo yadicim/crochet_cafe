@@ -68,11 +68,11 @@ export const ColorStudio = () => {
                     {/* Header */}
                     <div className="text-center mb-16">
                         <div className="flex justify-center mb-4">
-                            <span className="glass px-4 py-2 rounded-full text-xs font-bold text-(--color-primary) flex items-center gap-2 uppercase tracking-[0.2em]">
+                            <span className="glass px-4 py-2 rounded-full text-xs font-bold text-(--color-primary) flex items-center gap-2 uppercase tracking-[0.2em] ">
                                 <Sparkles size={14} /> {t("color_studio.badge")}
                             </span>
                         </div>
-                        <h2 className="text-4xl md:text-6xl font-serif italic">{t("color_studio.title")}</h2>
+                        <h2 className="text-2xl md:text-6xl font-serif italic min-w-0">{t("color_studio.title")}</h2>
                         <p className="text-(--color-muted-foreground) mt-4 max-w-xl mx-auto text-lg">
                             {t("color_studio.description")}
                         </p>

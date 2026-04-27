@@ -4,6 +4,7 @@ import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 import { useContext } from "react";
 import { ThemeContext } from "@/Context"; 
 import { useTranslation } from 'react-i18next'; // 1. Import eklendi
+import { Sprout, Scissors, Disc, Flower, Heart } from 'lucide-react';
 
 export const Hero = () => {
     const { t } = useTranslation(); // 2. Hook tanımlandı
@@ -21,38 +22,57 @@ export const Hero = () => {
         <section className="relative min-h-screen flex items-center overflow-hidden">
             {/* Background Image / Overlay */}
             <div className={`absolute inset-0 `}>
-                <img 
-                    src="projects/fon3.jpeg" 
-                    alt="Hero background" 
-                    className="w-full h-full object-cover opacity-20"
-                />
+               
                 <div className="absolute inset-0 bg-linear-to-b from-background/20 via-background/80 to-background"></div>
             </div>
 
-            {/* Crochet Stitch Fall (Zincir Akışı) - Dokunmadım, görsel efekt */}
-            {Array.from({ length: 20 }).map((_, i) => {
-                const stitches = ["v", "x", "o", "➰", "i"];
-                const randomStitch = stitches[Math.floor(Math.random() * stitches.length)];
-                return (
-                    <div
-                        key={i}
-                        className={`font-serif text-lg opacity-15 absolute "md:block hidden"}`}
-                        style={{
-                            color: "var(--color-primary)",
-                            left: `${Math.random() * 100}%`,
-                            top: "-10%",
-                            animation: `matrix-fall ${18 + Math.random() * 12}s linear infinite`,
-                            animationDelay: `${Math.random() * 5}s`,
+            {/* Crochet Stitch görsel efekt */}
+            
+
+{Array.from({ length: 40 }).map((_, i) => {
+    // İkon havuzu: Örgü ve dikişi anımsatanlar
+    const icons = [
+        <Scissors size={20} />, 
+        <Flower size={20} />, 
+        <Heart size={20} />, 
+        <Sprout size={20} />,
+    ];
+    
+    const randomIcon = icons[i % icons.length];
+    const rotation = (i * 360) / 40;
+    const duration = 12 + Math.random() * 8;
+    const delay = Math.random() * -20;
+
+    return (
+        <div
+            key={i}
+            className="absolute opacity-0"
+            style={{
+                left: "50%",
+                top: "50%",
+                color: "var(--color-primary, #d946ef)", // Örgüye uygun bir pembe/mor tonu
+                animation: `spiral-stitch 15s linear infinite`,
+                animationDelay: `${delay}s`,
+                "--rotation": `${rotation}deg`,
+            }}
+        >
+            <div className="flex flex-col items-center gap-6">
+                {/* İkonlardan oluşan bir 'iplik' dizisi */}
+                {Array.from({ length: 6 }).map((_, j) => (
+                    <div 
+                        key={j} 
+                        style={{ 
+                            opacity: (6 - j) * 0.15,
+                            transform: `scale(${1 - j * 0.1})` 
                         }}
                     >
-                        {Array.from({ length: 12 }).map((_, j) => (
-                            <div key={j} className="leading-none select-none" style={{ opacity: (12 - j) * 0.08 }}>
-                                {randomStitch}
-                            </div>
-                        ))}
+                        {randomIcon}
                     </div>
-                );
-            })}
+                ))}
+            </div>
+        </div>
+    );
+})}
 
             {/* Content */}
             <div className="container mx-auto px-6 pt-20 lg:pt-32 pb-20 relative z-10">

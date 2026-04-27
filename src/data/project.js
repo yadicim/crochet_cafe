@@ -162,6 +162,29 @@ export const PROJECTS_DATA = [
     
     tags: ["Bellflower Mirror", "Kissankello", "Boho Wall Art", "Crochet Flowers", "Nordic Decor"]
   },
+  {
+    id: "magnet",
+    category: "home",
+     image: "/projects/home/magnet1.jpg",
+    slides: [
+      { url: '/projects/home/magnet1.jpg', caption: 'Slide 1' },
+      { url: '/projects/home/magnet2.jpg', caption: 'Slide 2' },
+      { url: '/projects/home/magnet3.jpg', caption: 'Slide 3' },
+       { url: '/projects/home/magnet4.jpg', caption: 'Slide 3' },
+      { url: '/projects/home/magnet5.jpg', caption: 'Slide 5' },
+      { url: '/projects/home/magnet6.jpg', caption: 'Slide 6' },
+       { url: '/projects/home/magnet7.jpg', caption: 'Slide 7' },
+      { url: '/projects/home/magnet8.jpg', caption: 'Slide 8' },
+      { url: '/projects/home/magnet9.jpg', caption: 'Slide 9' }
+    ],
+    
+    price: 10.00,
+    currency: "€",
+    status: "available", 
+    priceDetail: "1 kpl",
+    
+    tags: ["Flower Magnets", "Miniature Crochet", "Fridge Decor", "Cute Stationery", "Handmade Souvenir"]
+  },
   //ACCESSORIES
 
   {
