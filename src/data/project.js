@@ -62,6 +62,17 @@ export const PROJECTS_DATA = [
       "Comfort Toy"
     ],
   },
+    {
+    id: "bunny_rattle",
+    image: "/projects/toy/bunny_rattle.jpg",
+    category: "toys",
+   
+    price: 15.00,
+    currency: "€",
+    status: "avaible", 
+    
+    tags:["Baby Rattle", "Crochet Toy", "Newborn Gift", "Eco-friendly Toy", "Nursery Essential"]
+  },
   {
     id: "owl",
     image: "/projects/toy/owl.jpg",
@@ -249,5 +260,16 @@ export const PROJECTS_DATA = [
     
     tags: ["Kawaii Keychain", "Emoji Accessory", "Handmade Gift", "Cute Crochet", "Bag Charm"]
   },
-  
+  {
+    id: "blueberry_crochet_headband",
+    category: "accessories",
+    image: "/projects/acc/blueberry_crochet_headband.jpg",
+   
+    price: 15.00  ,
+    currency:  "€  ",
+    
+    status: "available", 
+    
+    tags: ["Blueberry Headband",  "Crochet Accessories", "Nature Inspired", "Handmade Hairband"]
+  },
 ];

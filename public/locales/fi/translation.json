@@ -163,6 +163,12 @@
       "desc": "Käsintehty virkattu kissa, jolla on pienet valkoiset tassut ja ystävälliset kasvot. Tämä lempeä amigurumi-ystävä sopii täydellisesti pienen lapsen käteen ja tuo kodikasta, käsintehtyä tunnelmaa lastenhuoneeseen.",
       "tags": ["Amigurumi", "Käsintehty", "Lahja kissaystävälle", "Lastenhuone", "Pehmolelu"]
       },
+      "bunny_rattle": {
+      "title": "Pupu-helistin",
+      "category": "Käsintehdyt lelut",
+      "desc": "Suloinen pupu-helistin, jolla on pitkät korvat ja kaunis kermanvärinen rusetti. Käsin virkattu pehmeästä langasta ja kiinnitetty sileään luonnonpuiseen renkaaseen – täydellinen aistilelu pienen vauvan tartuttavaksi.",
+      "tags":["Vauvan helistin", "Virkattu lelu", "Vauvalahja", "Ekologinen lelu", "Käsityö"]
+    },
 
       
       "owl": {
@@ -233,6 +239,12 @@
       "category": "Asusteet",
       "desc": "Ihanat käsintehdyt virkatut avaimenperät, joissa on suloisia kahvikuppeja hurmaavilla emoji-ilmeillä. Saatavilla kirkkaissa väreissä, nämä iloiset kumppanit lisäävät persoonallisuutta ja onnellisuutta avaimiisi tai laukkuusi.",
       "tags": ["Kawaii Avaimenperä", "Emoji-asuste", "Käsintehty lahja", "Söpö virkkaus", "Laukun koriste"]
+    },
+     "blueberry_crochet_headband": {
+      "title": "Mustikka-virkattu panta",
+      "category": "Asusteet",
+      "desc": "Kaunis, käsityönä valmistettu harmaa panta, jota koristavat eloisat virkatut mustikat ja vihreät lehdet. Pohjoismaisesta luonnosta inspiraationsa saanut pehmeä ja tyylikäs asuste tuo metsän taikaa mihin tahansa asuun.",
+      "tags": ["Mustikkapanta", "Pohjoismainen tyyli", "Virkattu asuste", "Luonto", "Käsintehty panta"]
     }
      
     },

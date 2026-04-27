@@ -208,6 +208,12 @@
       "desc": "El yapimi, minik beyaz patili ve dost canlısı bakışlı kedi. Küçük ellerin kolayca kavrayabileceği bu sevimli amigurumi, her odaya sıcak ve el emeği bir dokunuş katar.",
       "tags": ["Amigurumi", "El Yapımı", "Kedi Hediyesi", "Bebek Odası", "Yumuşak Oyuncak"]
     },
+      "bunny_rattle": {
+      "title": "Tavşan Bebek Çıngırağı",
+      "category": "El Yapımı Oyuncaklar",
+      "desc": "Uzun kulakları ve krem rengi fiyonkuyla çok şirin, tavşan figürlü çıngırak. Yumuşak iple el emeği örülen ve doğal ahşap halkaya sabitlenen bu oyuncak, bebeklerin kavraması ve oynaması için ideal bir duyusal oyuncaktır.",
+      "tags": ["Bebek Çıngırağı", "Amigurumi Oyuncak", "Yeni Doğan Hediyesi", "Doğal Oyuncak", "Örgü Çıngırak"]
+    },
         "owl": {
       "title": "Kar Tanesi Örgü Baykuş",
       "category": "El Yapımı Oyuncaklar",
@@ -247,6 +253,12 @@
         "category": "Ev Dekorasyonu",
         "desc": "Narin örgü çan çiçekleriyle (Kissankello) süslenmiş, el yapımı hasır ayna. Mor, pembe ve beyaz tonlarındaki bu ikonik İskandinav çiçekleri, evinizin duvarlarına İskandinav yaz çayırlarının huzurunu ve doğal zarafetini taşır.",
         "tags": ["Çan Çiçeği Ayna", "Kissankello", "Bohem Dekor", "Örgü Çiçek"]
+      },
+          "magnet": {
+        "title": "Mini Saksı Çiçeği Magnetler",
+        "category": "Ev Dekorasyonu",
+        "desc": "Minik dokulu saksılar içinde yer alan el emeği örgü çiçek magnetler. Buzdolabınızı veya ofis alanınızı neşelendirmek için mükemmel olan bu minik çiçekler, metal yüzeylere el yapımı sıcak bir dokunuş katar.",
+        "tags": ["Çiçek Magnet", "Minyatür Örgü", "Buzdolabı Süsü", "Hediyelik", "El Yapımı"]
       },
     
     "hair-acc": {

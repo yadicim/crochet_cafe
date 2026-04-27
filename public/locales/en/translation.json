@@ -224,6 +224,14 @@
           "Cat"
         ]
       },
+        "bunny_rattle": {
+        "title": " Bunny Crochet Baby Rattle",
+        "category": "Handmade Toys",
+        "desc": "A charming bunny rattle featuring long ears and a sweet cream bow. Hand-crocheted with soft yarn and attached to a smooth natural wooden ring, it's the perfect sensory toy for little hands to grasp and shake.",
+        "tags": [
+          "Baby Rattle", "Crochet Toy", "Newborn Gift", "Eco-friendly Toy", "Nursery Essential"
+        ]
+      },
         "owl": {
         "title": " Snowy Wisdom Amigurumi Owl",
         "category": "Handmade Toys",
@@ -308,6 +316,12 @@
         "category": "Accessories",
         "desc": "Whimsical handmade crochet keychains featuring adorable coffee cups with charming emoji expressions. Available in vibrant colors, these cheerful companions add a pop of personality and happiness to your keys or bag.",
         "tags": ["Kawaii Keychain", "Emoji Accessory", "Handmade Gift", "Cute Crochet", "Bag Charm"]
+      },
+      "blueberry_crochet_headband": {
+        "title": " Blueberry Crochet Headband",
+        "category": "Accessories",
+        "desc": "A beautiful, handcrafted grey headband adorned with vibrant crochet blueberries and green leaves. Inspired by Nordic nature, this soft and stylish accessory adds a touch of forest-inspired charm to any outfit.",
+        "tags": ["Blueberry Headband", "Nordic Style", "Crochet Accessories", "Nature Inspired", "Handmade Hairband"]
       }
     
     },

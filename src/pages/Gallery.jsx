@@ -44,7 +44,7 @@ const ProjectCard = ({ item, translation, idx, isLight, phoneNumber, t }) => {
                     <img 
                         src={item.image} 
                         alt={translation.title} 
-                        className="w-full h-full object-cover transition-transform duration-700 group-hover/image-box:scale-110" 
+                        className="w-full h-full object-contain transition-transform duration-700 group-hover/image-box:scale-110" 
                     />
                 )}
             </div>

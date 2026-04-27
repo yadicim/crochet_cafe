@@ -29,50 +29,50 @@ export const Hero = () => {
             {/* Crochet Stitch görsel efekt */}
             
 
-{Array.from({ length: 40 }).map((_, i) => {
-    // İkon havuzu: Örgü ve dikişi anımsatanlar
-    const icons = [
-        <Scissors size={20} />, 
-        <Flower size={20} />, 
-        <Heart size={20} />, 
-        <Sprout size={20} />,
-    ];
-    
-    const randomIcon = icons[i % icons.length];
-    const rotation = (i * 360) / 40;
-    const duration = 12 + Math.random() * 8;
-    const delay = Math.random() * -20;
+            {Array.from({ length: 40 }).map((_, i) => {
+                // İkon havuzu: Örgü ve dikişi anımsatanlar
+                const icons = [
+                    <Scissors size={20} />, 
+                    <Flower size={20} />, 
+                    <Heart size={20} />, 
+                    <Sprout size={20} />,
+                ];
+                
+                const randomIcon = icons[i % icons.length];
+                const rotation = (i * 360) / 40;
+                const duration = 12 + Math.random() * 8;
+                const delay = Math.random() * -20;
 
-    return (
-        <div
-            key={i}
-            className="absolute opacity-0"
-            style={{
-                left: "50%",
-                top: "50%",
-                color: "var(--color-primary, #d946ef)", // Örgüye uygun bir pembe/mor tonu
-                animation: `spiral-stitch 15s linear infinite`,
-                animationDelay: `${delay}s`,
-                "--rotation": `${rotation}deg`,
-            }}
-        >
-            <div className="flex flex-col items-center gap-6">
-                {/* İkonlardan oluşan bir 'iplik' dizisi */}
-                {Array.from({ length: 6 }).map((_, j) => (
-                    <div 
-                        key={j} 
-                        style={{ 
-                            opacity: (6 - j) * 0.15,
-                            transform: `scale(${1 - j * 0.1})` 
+                return (
+                    <div
+                        key={i}
+                        className="absolute opacity-0"
+                        style={{
+                            left: "50%",
+                            top: "50%",
+                            color: "var(--color-primary, #d946ef)", // Örgüye uygun bir pembe/mor tonu
+                            animation: `spiral-stitch 15s linear infinite`,
+                            animationDelay: `${delay}s`,
+                            "--rotation": `${rotation}deg`,
                         }}
                     >
-                        {randomIcon}
+                        <div className="flex flex-col items-center gap-6">
+                            {/* İkonlardan oluşan bir 'iplik' dizisi */}
+                            {Array.from({ length: 6 }).map((_, j) => (
+                                <div 
+                                    key={j} 
+                                    style={{ 
+                                        opacity: (6 - j) * 0.15,
+                                        transform: `scale(${1 - j * 0.1})` 
+                                    }}
+                                >
+                                    {randomIcon}
+                                </div>
+                            ))}
+                        </div>
                     </div>
-                ))}
-            </div>
-        </div>
-    );
-})}
+                );
+            })}
 
             {/* Content */}
             <div className="container mx-auto px-6 pt-20 lg:pt-32 pb-20 relative z-10">
